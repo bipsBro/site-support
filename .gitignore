@@ -16,7 +16,7 @@ nbproject
 Thumbs.db
 
 #config folder
-/config
+#
 # composer vendor dir
 /vendor
 
